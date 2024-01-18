@@ -12,7 +12,7 @@ namespace A_Pratice2_StephanieLopez
             Car defaultCar = new Car();
             Car makeModelCar = new Car("Ram1500", "F-150");
             Car fullCar = new Car("Subaru", "Impreza", 2000, 5000);
-            //I hope you dont mind I changed the displayed a little!
+            //I hope you dont mind I changed the displayed a little! :D
 
             Console.WriteLine("Car information:");
             Console.WriteLine(defaultCar.ToString());
